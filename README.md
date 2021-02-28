@@ -150,8 +150,3 @@ Fill Add Arguments with the directory of python file you want to run.
 6. Wait the program to run according to your schedule, or run the program from directly.
 7. If there's some errors, check it on the command prompt by copying what you fill on Program/Script (space) Add Arguments
 
-### Airflow
-
-
-## Aggregates
-
