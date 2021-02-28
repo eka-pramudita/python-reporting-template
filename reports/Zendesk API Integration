@@ -1,0 +1,19 @@
+# Getting, Updating, and Creating Data
+https://develop.zendesk.com/hc/en-us/articles/360001074168#topic_hdt_nfx_3m
+
+# Get Tickets Data
+https://stackoverflow.com/questions/56585806/how-do-i-query-for-a-list-of-tickets-in-zendesk-using-python
+
+# Support API
+https://developer.zendesk.com/rest_api/docs/support/introduction
+## Search API (Query Tickets)
+https://developer.zendesk.com/rest_api/docs/support/search
+
+# Get Large Datasets and Serialize
+https://develop.zendesk.com/hc/en-us/articles/360001068667-Getting-large-data-sets-with-the-Zendesk-API-and-Python
+
+# Writing Large Datasets to Excel
+https://develop.zendesk.com/hc/en-us/articles/360001074408
+
+# Help Center API
+https://developer.zendesk.com/rest_api/docs/help_center/introduction
